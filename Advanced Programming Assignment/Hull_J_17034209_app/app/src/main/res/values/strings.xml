@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Vehicle App</string>
+
+    <string name="vehicle_id">Vehicle_id</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="year">Year</string>
+    <string name="price">Price</string>
+    <string name="license_number">License_number</string>
+    <string name="colour">Colour</string>
+    <string name="number_doors">Number_doors</string>
+    <string name="transmission">Transmission</string>
+    <string name="mileage">Mileage</string>
+    <string name="fuel_type">Fuel_type</string>
+    <string name="engine_size">Engine_size</string>
+    <string name="body_style">Body_style</string>
+    <string name="condition">Condition</string>
+    <string name="notes">Notes</string>
+    <string name="sales">Sold</string>
+    <string name="action_favorite">Insert Vehicle</string>
+    <string name="action_settings"></string>
+
+
+    <!--These are the string names for all my post object names-->
+
+
+    <!--This is the string name and text displayed for my textview-->
+    <string name="txtv">Insert a Vehicle</string>
+    <string name="txtvU">Update a Vehicle</string>
+
+    <!--This is the string names and text displayed for all my text boxes-->
+    <string name="txtvehicle_id">Vehicle ID</string>
+    <string name="txtmake">Make</string>
+    <string name="txtmodel">Model</string>
+    <string name="txtyear">Year</string>
+    <string name="txtprice">Price</string>
+    <string name="txtlicense_number">License_number</string>
+    <string name="txtcolour">Colour</string>
+    <string name="txtnumber_doors">Number of doors</string>
+    <string name="txttransmission">Transmission</string>
+    <string name="txtmileage">Mileage</string>
+    <string name="txtfuel_type">Fuel type</string>
+    <string name="txtengine_size">Engine size (cc)</string>
+    <string name="txtbody_style">Body style</string>
+    <string name="txtcondition">Condition</string>
+    <string name="txtnotes">Notes</string>
+    <string name="txtsales">Sold</string>
+
+    <!--This is the string name and text displayed button -->
+    <string name="btn">Insert new vehicle</string>
+    <string name="btnU">Update vehicle</string>
+
+
+</resources>
